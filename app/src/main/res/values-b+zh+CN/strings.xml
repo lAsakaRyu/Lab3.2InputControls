@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab 3.2 InputControls</string>
+    <string name="flag">旗</string>
+    <string name="age">年龄</string>
+    <string name="gender">性别</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="premium">保费 : </string>
+    <string name="calculate">计算</string>
+    <string name="reset">重置</string>
+    <string name="smoker">抽烟者?</string>
+    <string-array name="age_group">
+        <item>5以下</item>
+        <item>5 到 10</item>
+        <item>11 到 16</item>
+        <item>17 到 20</item>
+        <item>21 到 30</item>
+        <item>31 到 40</item>
+        <item>41 到 50</item>
+        <item>50以上</item>
+    </string-array>
+</resources>
