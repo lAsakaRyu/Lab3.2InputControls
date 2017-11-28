@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-        
+
     }
 
     @Override
@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     }
     public void buttonReset(View view){
         spinnerAge.setSelection(0);
-        radioButtonMale.setChecked(false);
+        radioButtonMale.setChecked(true);
         radioButtonFemale.setChecked(false);
         checkBoxSmoker.setChecked(false);
         textViewPremium.setText(getString(R.string.premium));
